@@ -1,5 +1,1 @@
-## ``` Decentralized File Storage. ```
-
-
-## 🔧 Project Diagram:
-![Project Diagram](https://i.gyazo.com/2738ea6743a40036756b1b5714ab9fa8.png)
+Web3 App that allows users to utilize the IPFS to share files in a decentralized manner.# IPFS_APP
